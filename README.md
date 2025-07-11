@@ -1,1 +1,1 @@
-# X.com_Clone
+I cloned X.com landing UI page to test my Tailwind skills and it turns out to be a very Facinating technology !!.To use this project , you may need to change the directories, and if your a programmer , you can easily do that , (ignoring vibe coders)
